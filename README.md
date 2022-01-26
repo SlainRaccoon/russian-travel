@@ -14,4 +14,4 @@ ___
 ___
 ### Ссылка на проект:
 
-*[Путешествие по России]()*
+*[Путешествие по России](https://slainraccoon.github.io/russian-travel/index.html)*
