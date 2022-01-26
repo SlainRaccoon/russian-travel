@@ -1,0 +1,11 @@
+.root {  
+  margin: 0 auto;
+  min-width: 320px;
+  max-width: 1280px;
+  color: #fff;
+  font-family: 'Inter', Arial, sens-serif;
+  background-color: #2a2c2e;
+  
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}

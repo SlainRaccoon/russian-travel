@@ -1,0 +1,25 @@
+.header {
+  width: calc(100% - 16px * 2);
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding-top: 16px;
+}
+
+@media screen and (min-width: 425px) {
+  .header {
+    width: calc(100% - 24px * 2);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header {    
+    padding-top: 28px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .header {
+    width: calc(100% - 48px * 2);
+  }
+}
