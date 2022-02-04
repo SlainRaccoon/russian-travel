@@ -1,6 +1,7 @@
 .header__lang-link {
   color: #fff;
   margin: 0;
+  margin-right: 18px;
   font-size: 18px;
   line-height: 1.11;
   font-weight: 400;
@@ -9,8 +10,8 @@
   transition: .3s linear;
 }
 
-.header__lang-link:first-of-type {
-  padding-right: 18px;
+.header__lang-link:last-of-type {
+  margin-right: 0;
 }
 
 .header__lang-link:hover {

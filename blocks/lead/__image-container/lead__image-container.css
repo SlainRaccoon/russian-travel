@@ -1,3 +1,4 @@
-.lead__image-container {
+.lead__image-conteiner {
+  margin: 0;
   object-fit: contain;
 }
