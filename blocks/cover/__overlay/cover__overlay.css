@@ -3,12 +3,14 @@
   width: 100%;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
-  background-repeat: round;
+  background-repeat: no-repeat;
+  background-position: center;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-decoration: none;
+
 }
 
 .cover__overlay::before {
