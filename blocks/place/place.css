@@ -28,6 +28,6 @@
   .place {
     grid-template-columns: 460px 1fr;
     grid-gap: 48px 40px;
-    margin: 0 148px 0;
+    margin: 80px 148px 0;
   }
 }
